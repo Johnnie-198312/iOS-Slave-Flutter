@@ -11,6 +11,8 @@
 @import Flutter;
 
 @interface AppDelegate :FlutterAppDelegate // More on the FlutterAppDelegate below.
+//@property (nonatomic,strong) UIWindow *window;
+
 @property (nonatomic,strong) FlutterEngine *flutterEngine;
 @end
 
